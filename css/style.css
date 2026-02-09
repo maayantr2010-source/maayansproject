@@ -170,3 +170,21 @@ img {
     font-size: 14px;
   }
 }
+
+.heart-icon {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+.product {
+  display: flex;
+  gap: 10px;
+  border: 1px solid #ddd;   
+  padding: 10px;           
+  border-radius: 6px;      
+}
+
+        .red { color: red; }
+        .blue { color: blue; }
+        .green {color: green;}
