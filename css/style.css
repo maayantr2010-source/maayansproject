@@ -188,3 +188,20 @@ img {
         .red { color: red; }
         .blue { color: blue; }
         .green {color: green;}
+
+
+
+#contactForm{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 600px;
+    margin: 60px auto;
+    background:white;
+    padding:25px;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px black;
+}
+#message{
+  height: 100px;
+}
